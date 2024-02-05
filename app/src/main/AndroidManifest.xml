@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.adi.dailyworkout">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_apps"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_apps"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Activity.SplashScreen"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity.MainActivity" />
+        <activity
+            android:name=".Instruksi.TipsActivity"
+            android:label="Tips Olahraga" />
+        <activity
+            android:name=".Instruksi.KardioActivity"
+            android:label="Instruksi Latihan Kardio" />
+        <activity
+            android:name=".DetailInstruksi.DetailPushup"
+            android:label="Instruksi Push-Up" />
+        <activity
+            android:name=".DetailInstruksi.DetailSitup"
+            android:label="Instruksi Sit-Up" />
+        <activity
+            android:name=".DetailInstruksi.DetailPlank"
+            android:label="Instruksi Plank" />
+        <activity
+            android:name=".DetailInstruksi.DetailSquat"
+            android:label="Instruksi Squat" />
+        <activity
+            android:name=".Instruksi.PerutActivity"
+            android:label="Instruksi Latihan Otot Perut" />
+        <activity
+            android:name=".DetailInstruksi.DetailLegRaise"
+            android:label="Instruksi Leg Raise" />
+        <activity
+            android:name=".DetailInstruksi.DetailCrunchPerut"
+            android:label="Instruksi Crunch Perut" />
+        <activity
+            android:name=".DetailInstruksi.DetailCrunchSepeda"
+            android:label="Instruksi Crunch Sepeda" />
+        <activity
+            android:name=".DetailInstruksi.DetailJembatan"
+            android:label="Instruksi Jembatan" />
+        <activity
+            android:name=".Instruksi.LenganActivity"
+            android:label="Instruksi Latihan Otot Lengan" />
+        <activity
+            android:name=".DetailInstruksi.DetailArmRaises"
+            android:label="Instruksi Arm Raises" />
+        <activity
+            android:name=".DetailInstruksi.DetailDiagonalPlank"
+            android:label="Instruksi Diagonal Plank" />
+        <activity
+            android:name=".DetailInstruksi.DetailMountainClimbers"
+            android:label="Instruksi Mountain Climbers" />
+        <activity
+            android:name=".DetailInstruksi.DetailPosisiKobra"
+            android:label="Instruksi Posisi Kobra" />
+        <activity
+            android:name=".Instruksi.KakiActivity"
+            android:label="Instruksi Latihan Otot Kaki" />
+        <activity
+            android:name=".DetailInstruksi.DetailDuduk"
+            android:label="Instruksi Duduk di Dinding" />
+        <activity
+            android:name=".DetailInstruksi.DetailScissors"
+            android:label="Instruksi Scissors" />
+        <activity
+            android:name=".DetailInstruksi.DetailSisiTerjang"
+            android:label="Instruksi Sisi Terjang" />
+        <activity
+            android:name=".DetailInstruksi.DetailTipToeSquats"
+            android:label="Instruksi Tip Toe Squats" />
+        <activity
+            android:name=".Latihan.WorkDay"
+            android:label="Daily Workouts" />
+        <activity
+            android:name=".Latihan.SeninKardio"
+            android:label="Hari Senin" />
+        <activity
+            android:name=".Latihan.SelasaKardio"
+            android:label="Hari Selasa" />
+        <activity
+            android:name=".Latihan.RabuKardio"
+            android:label="Hari Rabu" />
+        <activity
+            android:name=".Latihan.KamisKardio"
+            android:label="Hari Kamis" />
+        <activity
+            android:name=".Latihan.JumatKardio"
+            android:label="Hari Jumat" />
+        <activity
+            android:name=".Latihan.SabtuKardio"
+            android:label="Hari Sabtu" />
+        <activity
+            android:name=".Latihan.MingguKardio"
+            android:label="Hari Minggu" />
+    </application>
+
+</manifest>

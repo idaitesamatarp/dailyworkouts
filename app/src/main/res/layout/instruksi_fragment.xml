@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/instruksi">
+
+    <Button
+        android:id="@+id/btn_tips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tips"
+        android:textColor="@color/colorAccent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/capsule"/>
+
+    <Button
+        android:id="@+id/btn_kardio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kardio"
+        android:textColor="@color/colorAccent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/capsule"/>
+
+    <Button
+        android:id="@+id/btn_perut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/perut"
+        android:textColor="@color/colorAccent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/capsule"/>
+
+    <Button
+        android:id="@+id/btn_lengan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lengan"
+        android:textColor="@color/colorAccent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/capsule"/>
+
+    <Button
+        android:id="@+id/btn_kaki"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kaki"
+        android:textColor="@color/colorAccent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/capsule"/>
+</LinearLayout>

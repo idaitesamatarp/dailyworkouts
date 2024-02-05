@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/bg"
+    tools:context=".Latihan.WorkDay" >
+
+    <Switch
+        android:id="@+id/switch_mulai"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/mulai"
+        android:textSize="25sp"
+        android:layout_gravity="left"
+        android:paddingLeft="40dp"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="50dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="10dp">
+
+
+        <ImageView
+            android:id="@+id/img_senin"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:src="@drawable/senin" />
+
+        <ImageView
+            android:id="@+id/img_selasa"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:src="@drawable/selasa" />
+
+        <ImageView
+            android:id="@+id/img_rabu"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:src="@drawable/rabu" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="10dp">
+
+        <ImageView
+            android:id="@+id/img_kamis"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:src="@drawable/kamis" />
+
+        <ImageView
+            android:id="@+id/img_jumat"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:src="@drawable/jumat" />
+
+        <ImageView
+            android:id="@+id/img_sabtu"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:src="@drawable/sabtu" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_minggu"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:src="@drawable/minggu" />
+
+</LinearLayout>

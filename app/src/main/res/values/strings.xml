@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Daily Workouts</string>
+    <string name="tips">Tips Olahraga Untuk Anda</string>
+    <string name="kardio">Instruksi Latihan Kardio</string>
+    <string name="perut">Instruksi Latihan Otot Perut</string>
+    <string name="lengan">Instruksi Latihan Otot Lengan</string>
+    <string name="kaki">Instruksi Latihan Otot Kaki</string>
+    <string name="judul">judul</string>
+    <string name="detail">Detail</string>
+    <string name="go"><![CDATA[>]]></string>
+    <string name="tips_rajin_olahraga">Tips Rajin Olahraga</string>
+    <string name="rajin">Olahraga merupakan aktivitas sehat yang manfaatnya tidak perlu diperdebatkan lagi. Mulai dari menjaga berat badan, mengaktifkan organ tubuh, sampai menjadikan awet muda. Satu hal yang menjadi masalah adalah kenyataan bahwa memulai kebiasaan untuk berolahraga itu sulit. Bagaimana caranya agar kedisiplinan untuk berolahraga senantiasa terjaga? Berikut beberapa hal dapat Anda lakukan untuk mendongkrak semangat berolahraga.</string>
+    <string name="sederhana">Mulai dengan olahraga sederhana</string>
+    <string name="sederhana_isi">Jika kondisi tubuh sedang lelah, coba ubah rutinitas latihan dengan hal yang lebih sederhana agar tubuh tidak kewalahan. Coba muai dengan berjalan kaki selama 20 menit atau lakukan jogging. Jangan lupa untuk melakukan peregangan sederhanan agar Anda tetap aktif bergerak.</string>
+    <string name="baru">Cobalah aktivitas olahraga baru yang menarik bagi Anda. Misalnya bersepeda malam, hot yoga, panjat tebing, atau power walking.</string>
+    <string name="jenis">Coba jenis olahraga baru</string>
+    <string name="rencana">Rencanakan dengan baik</string>
+    <string name="rencana_baik">Pasang alarm dan tata pakaian olahraga Anda dekat tempat tidur. Cara ini membuat Anda bisa lebih siap untuk berlatih.</string>
+    <string name="textview">TextView</string>
+    <string name="title">Title</string>
+    <string name="push_up">PUSH UP</string>
+    <string name="isi_pushup">1. Posisi awal berbaring di lantai dengan lengan menumpu tubuh anda.
+        \n2. Jaga tubuh and tetap lurus ketika mengangkat dan menurunkan tubuh anda.
+        \n3. Latihan ini melatih dada, bahu, otot trisep, punggung, dan kaki.
+    </string>
+    <string name="video_pushup">
+        <a href="https://youtu.be/IODxDxX7oi4">>> Klik disini untuk melihat video instruksi</a></string>
+    <string name="sit_up">SIT UP</string>
+    <string name="isi_situp">1. Posisi awal berbaring dengan tangan dilipat di belakang kepala anda. Lalu angkat badan bagian atas anda sejauh mungkin dari lantai.
+        \n2. Perlahan kembali ke posisi berbaring dan ulangi gerakan.</string>
+    <string name="video_situp">
+        <a href="https://youtu.be/jDwoBqPH0jk">>> Klik disini untuk melihat video instruksi</a></string>
+    <string name="plank">PLANK</string>
+    <string name="isi_plank">1. Posisi awal seperti push-up dengan berat tubuh bertumpu pada lengan bawah, siku dan jari kaki. Tahanlah selama 30 detik.
+        \n2. Latihan Plank memperkuat perut, punggung, dan bahu.</string>
+    <string name="video_plank">
+        <a href="https://youtu.be/F-nQ_KJgfCY">>> Klik disini untuk melihat video instruksi</a></string>
+    <string name="squat">SQUAT</string>
+    <string name="isi_squat">1. Posisi awal berdiri diatas lantai dengan kaki terpisah, lalu tekuk lutut dan turunkan pinggul anda sampai menjadi sejajar dengan lantai.
+        \n2. Lalu kembali ke posisi berdiri. Lakukan gerakan ini secara berulang.
+        \n3. Latihan ini untuk melatih paha, pinggul, bokong, otot kuadrisep, tendon harmstring, dan bagian bawah tubuh.</string>
+    <string name="video_squat">
+        <a href="https://youtu.be/mGvzVjuY8SY">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="angkatkaki">LEG RAISE</string>
+    <string name="isi_angkatkaki">1. Berbaringlah dan letakkan tangan anda di bawah pinggul untuk mendukung.
+        \n2. Lalu angkat kedua kaki ke atas dengan lurus, sehingga membentuk sudut yang tepat dengan lantai.
+        \n3. Perlahan turunkan kaki dan ulangi gerakan.</string>
+    <string name="video_angkatkaki">
+        <a href="https://youtu.be/l4kQd9eWclE">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="crunch_perut">CRUNCH PERUT</string>
+    <string name="isi_crunchperut">1. Berbaring di punggung anda dengan lutut ditekuk dan telapak tangan dibawah kepala. Kemudian angkat bahu anda dari lantai.
+        \n2. Pertahankanlah selama beberapa detik dan dengan perlahan-lahan kembali ke posisi awal.</string>
+    <string name="video_crunchperut">
+        <a href="https://youtu.be/Xyd_fa5zoEU">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="crunch_sepeda">CRUNCH SEPEDA</string>
+    <string name="isi_crunchsepeda">1. Berbaring lurus dengan lutut yang ditekuk dan dengan telapak kaki rata di lantai.
+        \n2. Lalu angkatlah lutut kanan hingga membuat sudut 45 derajat dengan tubuh, lalu coba menyentuhkan siku kiri anda ke lutut kanan.</string>
+    <string name="video_crunchsepeda">
+        <a href="https://youtu.be/9FGilxCbdz8">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="jembatan">JEMBATAN</string>
+    <string name="isi_jembatan">1. Berbaring dengan rata di lantai, dan angkatlah pinggul dari lantai sambil menjaga punggung agar tetap lurus.
+        \n2. Latihan jembatan ini memperkuat seluruh otot perut, punggung bawah, dan otot gluteus maksimus.</string>
+    <string name="video_jembatan">
+        <a href="https://youtu.be/oje869YCAL4">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="arm_raises">ARM RAISES</string>
+    <string name="isi_armraises">1. Mulailah dengan berdiri di lantai dan merentangkan kedua tangan sejajar dengan bahu.
+        \n2. Angkat kedua tangan ke atas kepala. Kembali ke posisi semula dan ulangi.</string>
+    <string name="video_armraises">
+        <a href="https://youtu.be/eG0kbjDAM68">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="diagonal_plank">DIAGONAL PLANK</string>
+    <string name="isi_diagonalplank">1. Mulailah dengan posisi plank sembari tangan direntangkan. Angkat lengan kanan dan kaki sejajar dengan lantai.
+        \n2. Kembali ke posisi awal dan ulangi dengan sisi satunya.</string>
+    <string name="video_diagonalplank">
+        <a href="https://youtu.be/lsoQDZkmQ0c">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="climbers">MOUNTAIN CLIMBERS</string>
+    <string name="isi_climbers">1. Mulailah dengan posisi push-up.
+    \n2. Lalu tekuk lutut kanan ke arah dada dengan kaki kiri lurus, lalu ganti kaki di udara dan tekuk lutut kiri ke arah dada dengan kaki kanan lurus.
+    \n3. Lakukan latihan semakin cepat.</string>
+    <string name="video_climbers">
+        <a href="https://youtu.be/QMc0VQNZKvw">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="cobra">POSISI KOBRA</string>
+    <string name="isi_cobra">1. Mulailah dengan tengkurap dan tekuk siku anda dengan telapak tanggan di bawah bahu anda.
+    \n2. Lalu dorong dada anda ke atas sejauh mungkin dari lantai. Kembali ke posisi semula dan ulangi.</string>
+    <string name="video_cobra">
+        <a href="https://youtu.be/Aa6zdmje-c4">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="duduk_di_dinding">DUDUK DI DINDING</string>
+    <string name="isi_duduk">1. Mulai duduklah dengan punggung bersandar ke dinding seolah-olah ada kursi. Pertahankan posisi itu selama 30 detik.
+    \n2. Latihan ini dapat memperkuat otot kuadrisep.</string>
+    <string name="video_duduk">
+        <a href="https://youtu.be/XULOKw4E4P4">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="scissors">SCISSORS</string>
+    <string name="isi_scissors">1. Mulai berdiri dengan kaki terpisah selebar pundak dan kedua tangan diregangkan ke depan. Lakukan langkah lebar ke depan dan turunkan tubuh hingga lutut depan membentuk sudut 90 derajat.
+    \n2. Kemudian putar tubuh atas ke sisi yang sama dengan kaki depan dan putar kembali. Kembali ke posisi awal dan ganti  dengan kaki satunya.</string>
+    <string name="video_scissors">
+        <a href="https://youtu.be/WoNCIBVLbgY">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="sisi_terjang">SISI TERJANG</string>
+    <string name="isi_sisiterjang">1. Mulailah berdiri lurus dengan kedua kaki. Pindahkan kaki kanan ke sisi dan tekan ke bawah dengan kaki kiri yang di luruskan.
+    \n2. Lakukan kembali ke posisi berdiri dan beralih ke sisi lain.</string>
+    <string name="video_sisiterjang">
+        <a href="https://youtu.be/rvqLVxYqEvo">>>Klik disini untuk melihat video instruksi</a>></string>
+    <string name="tip_toe_squats">TIP TOE SQUATS</string>
+    <string name="isi_tiptoe">1. Berdiri dengan kaki terpisah selebar pinggul dan kedua tangan anda diatas pinggang.
+    \n2. Lalu berdirilah dengan ujung kaki (jinjit) dan perlahan turunkan tubuh ke bawah dan angkat ke atas.</string>
+    <string name="video_tiptoe">
+        <a href="https://youtu.be/nWrHLhy41Yo">>>Klik disini untuk melihat video instruksi</a></string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="mulai">Mulai</string>
+    <string name="ayo">Ayo Mulai Berlatih</string>
+    <string name="kardio1">Hari Ke - 1</string>
+    <string name="next">Berikutnya</string>
+    <string name="back">Kembali</string>
+
+    <!-- Names -->
+    <string-array name="workTitle">
+        <item>Latihan Kardio</item>
+        <item>Latihan Perut</item>
+        <item>Latihan Lengan</item>
+        <item>Latihan Kaki</item>
+    </string-array>
+
+    <!-- Description -->
+    <string-array name="txtDesc">
+        <item>Melatih seluruh otot tubuh</item>
+        <item>Melatih seluruh otot bagian perut</item>
+        <item>Melatih seluruh otot bagian lengan</item>
+        <item>Melatih seluruh otot bagian kaki</item>
+    </string-array>
+
+    <!-- Pictures -->
+    <string-array name="imgWork">
+        <item>@drawable/tubuhpenuh</item>
+        <item>@drawable/perut1</item>
+        <item>@drawable/lengan1</item>
+        <item>@drawable/kaki</item>
+    </string-array>
+</resources>
